@@ -8,7 +8,7 @@
 ## 使用方法
 
  配置文件conf.properties：
-- 填写阿里云accessKeyId、accessKeySecret
+- 填写阿里云accessKeyId、accessKeySecret (登录阿里云后，点击右上方头像，选择AccessKey管理)
 - 需要申请的域名列表，用逗号分割
 - nginx程序地址，用于证书下载后，自动重新加载nginx
 
