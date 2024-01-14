@@ -12,7 +12,7 @@
 - 需要申请的域名列表，用逗号分割
 - nginx程序地址，用于证书下载后，自动重新加载nginx
 
-## conf.properties例子：
+## conf.properties例子
     accessKeyId=LTAfdsfdsafdsadfsa
     accessKeySecret=uhPYWWoSdADFyvaccdfsfdsafdsafds
     certDomain=jd.com,360.com,qq.com
@@ -50,3 +50,9 @@
 - ssl_certificate_key   配置   domain.key文件地址
 
 ## 注意，linux系统未进行测试
+
+## 图片说明
+![Image text](https://gitee.com/winddu1982/get-https-certs/raw/master/src/main/resources/img/nginx_conf.png)
+![Image text](https://gitee.com/winddu1982/get-https-certs/raw/master/src/main/resources/img/run%20bat.png)
+![Image text](https://gitee.com/winddu1982/get-https-certs/raw/master/src/main/resources/img/windows_task_1.png)
+![Image text](https://gitee.com/winddu1982/get-https-certs/raw/master/src/main/resources/img/windows_task_2.png)
